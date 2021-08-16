@@ -1,0 +1,38 @@
+Today is 75th Independence Day
+Always being proud to Indian
+Also is more than 15days the course has been Started.
+Only More 45Day to Go...
+Need to practice more & More Every day 
+Minimum Practice upto 8hr on Daily basis, if need to get complete on time.
+LETS! DO! IT!
+kunalv9768@LAPTOP-OM74GEIM:~$ git init PdevOps
+Initialized empty Git repository in /home/kunalv9768/PdevOps/.git/
+kunalv9768@LAPTOP-OM74GEIM:~$ git clone https://github.com/kunalv9768/PracDevOps.git
+fatal: destination path 'PracDevOps' already exists and is not an empty directory.
+kunalv9768@LAPTOP-OM74GEIM:~$ rmdir PracDevOps
+rmdir: failed to remove 'PracDevOps': Directory not empty
+kunalv9768@LAPTOP-OM74GEIM:~$ cd PracDevOps
+kunalv9768@LAPTOP-OM74GEIM:~/PracDevOps$ git clonehttps://github.com/kunalv9768/PracDevOps.git
+git: 'clonehttps://github.com/kunalv9768/PracDevOps.git' is not a git command. See 'git --help'.
+kunalv9768@LAPTOP-OM74GEIM:~/PracDevOps$ git clone git  https://github.com/kunalv9768/PracDevOps.git
+fatal: repository 'git' does not exist
+kunalv9768@LAPTOP-OM74GEIM:~/PracDevOps$ git clone git_https://github.com/kunalv9768/PracDevOps.git
+Cloning into 'PracDevOps'...
+fatal: protocol 'git_https' is not supported
+kunalv9768@LAPTOP-OM74GEIM:~/PracDevOps$ git clone git_git@github.com:kunalv9768/PracDevOps.git
+Cloning into 'PracDevOps'...
+The authenticity of host 'github.com (13.234.210.38)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com,13.234.210.38' (RSA) to the list of known hosts.
+git_git@github.com: Permission denied (publickey).
+eratal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+kunalv9768@LAPTOP-OM74GEIM:~/PracDevOps$
+
+
+
+
+
